@@ -1,6 +1,6 @@
-1bca59eb76a72fa25e787389f97a84d2 *DESCRIPTION
+d020984c3350984d491860e7ffc5c391 *DESCRIPTION
 89fb01dbd48aa367e0b1c6b65df7d118 *NAMESPACE
-89e749224b6f20c7c5462066622710b4 *NEWS
+6320d88435cdca600e82847b6ebf00a2 *NEWS
 9d04f569821c0a21deed72d82b2030e0 *R/PeakError.R
 0c7a32f43d88f71964104ae3e18b6e48 *R/Peaks.R
 e96e4b56b38b3b986e7c2ae43b6f0d59 *R/check.R
@@ -17,7 +17,6 @@ b1333c4ba99aae819ee7d5c07e98276e *inst/exampleData/overlapping_peaks.bed
 f50a044aca5631f063b83b4c6698bb7d *src/PeakError.c
 0fda088cb892735eaa2bceaf44024704 *src/PeakError.h
 30203256522d90c034f5ecb50fdee996 *src/interface.c
-2752c5d9da66562f6bc5cf1e65491d32 *tests/script.R
 b126d7ebdfd8c36054b5e77fbcde1e45 *tests/testthat.R
 8b0cc276f647ce286cf06cdb4985c3b3 *tests/testthat/test-errors.R
 3a82bac03883edf0a4bc17e365dd50a1 *tests/testthat/test-examples.R
